@@ -28,4 +28,6 @@ in your site, from the content in your Markdown files.
 [![OS](https://img.shields.io/badge/Tested%20On-Linux%20%7C%20Android-yellowgreen.svg)](https://termux.com/)
 
 # Fan Art
-![ART](https://github.com/KruZira/Particles/raw/master/particle.mp4)
+<p align="center">
+  <img src="https://github.com/KruZira/Particles/raw/master/particle.mp4" width="470" height="150">
+</p>
