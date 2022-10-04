@@ -29,5 +29,3 @@ in your site, from the content in your Markdown files.
 
 # Fan Art
 ![ART](https://github.com/KruZira/Particles/raw/master/particle.mp4)
-
-<video src='https://github.com/KruZira/Particles/raw/master/particle.mp4' width=180/>
