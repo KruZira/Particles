@@ -28,4 +28,4 @@ in your site, from the content in your Markdown files.
 [![OS](https://img.shields.io/badge/Tested%20On-Linux%20%7C%20Android-yellowgreen.svg)](https://termux.com/)
 
 # Fan Art
-![ART](https://github.com/KruZira/Particles/raw/master/particle.mp4)
+![ART](https://media.giphy.com/media/3ohs7IdEfvc5114C5y/giphy.gif)
