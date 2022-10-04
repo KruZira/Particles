@@ -30,4 +30,4 @@ in your site, from the content in your Markdown files.
 # Fan Art
 ![ART](https://github.com/KruZira/Cool-Background/blob/master/rec-tab.webm)
 
-<video src='https://github.com/KruZira/Cool-Background/blob/master/rec-tab.webm' width=180/>
+<video src='https://github.com/KruZira/Cool-Background/blob/master/particle.mp4' width=180/>
